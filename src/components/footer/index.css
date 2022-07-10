@@ -1,0 +1,16 @@
+.footer {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.footer input {
+  margin: 0 10px;
+}
+.footer button {
+  cursor: pointer;
+  background-color: red;
+  border: none;
+  padding: 5px 10px;
+  color: #fff;
+  border-radius: 5px;
+}
